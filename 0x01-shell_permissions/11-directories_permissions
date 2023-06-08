@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g+x,o+x -R  0x01-shell_permisions
+chmod -R --reference=/. /./*/
