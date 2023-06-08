@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 001 somedir  0x01-shell_permisions
+chmod g+x,o+x somedir  0x01-shell_permisions
