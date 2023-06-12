@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" printf "%f/n" | cut -d "." -f 1 | sort -f | sort -k <bytes>
+find . -type f -name "*.gif" printf "%f/n" | cut -d "." -f 1 | LA_ALL=C sort -f
