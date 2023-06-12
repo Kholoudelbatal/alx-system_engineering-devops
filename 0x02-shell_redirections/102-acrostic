@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 -printf "%f\n"
+cut -c1 -printf "%f\n" | paste -sd ""
