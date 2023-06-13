@@ -1,1 +1,1 @@
-Script writing and excuting readme
+shell_variables_expansions readme
